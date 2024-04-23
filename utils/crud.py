@@ -28,3 +28,9 @@ def update_user(users: list):
             user["name"] = input("Podaj nowe imię: ")
             user["surname"] = input("Podaj nowe nazwisko: ")
             user["posts"] = int(input("Podaj nową liczbę postów: "))
+
+
+
+
+
+#haha
